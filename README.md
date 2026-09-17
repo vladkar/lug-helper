@@ -19,6 +19,7 @@ _These packages are maintained by the community_
 **Arch Linux:** https://aur.archlinux.org/packages/lug-helper/  
 **Fedora:** https://copr.fedorainfracloud.org/coprs/jackgreiner/lug-helper  
 **NixOS:** https://github.com/LovingMelody/nix-citizen  
+**Gentoo:** https://github.com/vladkar/gentoo-overlay
 
 ### From source:
 1. [Download](https://github.com/starcitizen-lug/lug-helper/releases) and extract the **.tar.gz** archive.
